@@ -8,7 +8,7 @@
   "private": false,
   "dependencies": {
     "optimize-css-assets-webpack-plugin": "^5.0.3",
-    "postcss-safe-parser": "^4.0.1"
+    "postcss-safe-parser": "^5.0.0"
   },
   "repository": {
     "type": "git",
